@@ -7,5 +7,4 @@
 #include <spdlog/spdlog.h>
 namespace spd = spdlog;
 
-
 #endif

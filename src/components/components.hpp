@@ -1,12 +1,10 @@
 #ifndef COMPONENTS_H
 #define COMPONENTS_H 1
-#include <string>
-#include <SFML/System/Vector2.hpp>
-#include "../tilemap/tilemap.hpp"
 #include "spdlog/fmt/ostr.h"
+#include <SFML/System/Vector2.hpp>
+#include <string>
 
 struct Background {};
-
 
 /**
    Tile component for discrete blocks.
